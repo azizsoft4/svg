@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1100 1100" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
+<style>svg{--c:#000;}.rd{stroke-linejoin:round;stroke-linecap:round;}
+.s{fill:var(--c);}.ns{stroke-width:10px;stroke:var(--c);fill:none;}.cd{cy:350px;cx:350px;r:35px;stroke-dashoffset:-4;}
+@keyframes ad{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}
+.i_ig{stroke-width: 8px;
+stroke:var(--c);
+fill:none;
+}</style>
+<path class="s" d="M120,139v19h13v41h22v-41h17l4,-19h-21c0,-19,4,-22,22,-21v-17c-42,-6,-45,13,-44,38z"/>
+<path class="i_searsh ns" d="M374,141a33,33,1,1,0,0,1zm-7,26l27,27"/>
+<g class="i_ig"><rect x="505" y="105" width="90" height="90" rx="25"/><circle cx="550" cy="150" r="21"/><circle cx="577" cy="123" r="3"/></g>
+<path class="s" d="M795,125c-1,-4,-4,-7,-8,-8c-7,-2,-37,-2,-37,-2s-29,0,-37,2c-4,1,-7,4,-8,8c-2,7,-2,23,-2,23s0,15,2,23c1,4,4,7,8,8c7,2,37,2,37,2s29,0,37,-2c4,-1,7,-4,8,-8c2,-7,2,-23,2,-23s0,-15,-2,-23zm-55,37v-28l24,14-25,14z"/>
+<path class="ns rd" d="m910,130,40,40,40,-40"/>
+<path class="ns" d="m105,320h90m-90,30,90,0m-90,30,90,0"/>
+<circle class="cd ns" style="opacity:0.2;stroke-dasharray:20 7.5;"/><circle class="cd ns" style="stroke-dasharray:20 200;transform-origin:350px 350px;animation:ad 1s steps(8) 0s infinite;"/>
+<g class="i_copy rd ns"><rect id="box" x="535" y="324" width="50" height="70"></rect><use href="#box" x="-15" y="-15" stroke-dasharray="44 127 70"/></g>
+</svg>
